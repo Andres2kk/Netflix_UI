@@ -10,6 +10,6 @@ Here are a couple of snapshots showcasing the UI:
 </div>
 
 ## Technologies Used
-- Flutter framework for cross-platform app development
-- Dart programming language
-
+## Tecnologias Utilizadas
+- ![Flutter Logo](https://github.com/Andres2kk/Netflix_UI/assets/147880314/ec7b8a81-cc0b-4f29-bd76-f93942584703) 
+- ![Dart Logo](https://github.com/Andres2kk/Netflix_UI/assets/147880314/4ddba24a-8632-49ab-8445-9f1f8fc78cf6) 
