@@ -10,4 +10,4 @@ Here are a couple of snapshots showcasing the UI:
 </div>
 
 <img src="https://github.com/Andres2kk/Netflix_UI/assets/147880314/ec7b8a81-cc0b-4f29-bd76-f93942584703" alt="Flutter Logo" width="50" height="50"/> Framework Flutter para desenvolvimento de aplicativos multiplataforma
-- <img src="https://github.com/Andres2kk/Netflix_UI/assets/147880314/4ddba24a-8632-49ab-8445-9f1f8fc78cf6" alt="Dart Logo" width="50" height="50"/> Linguagem de programação Dart
+- <img src="https://github.com/Andres2kk/Netflix_UI/assets/147880314/4ddba24a-8632-49ab-8445-9f1f8fc78cf6" alt="Dart Logo" width="20" height="20"/> Linguagem de programação Dart
